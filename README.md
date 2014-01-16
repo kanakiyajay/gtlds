@@ -1,6 +1,6 @@
-#App
+#Angular-gtlds
 
-The Github Repo of Angular-js App.
+A single page application to quickly search for new domains.
 
 ##Referred
 
